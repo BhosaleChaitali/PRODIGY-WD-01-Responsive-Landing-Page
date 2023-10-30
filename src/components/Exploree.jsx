@@ -1,6 +1,5 @@
 import React from 'react'
 import Photo from '../assets/Photo.png'
-import right from '../assets/right-arrow.png'
 import scribble from '../assets/swirly-scribbled-arrow.png'
 
 const Exploree = () => {

@@ -1,6 +1,4 @@
 import React from 'react'
-import Image from '../assets/Image.png';
-import fs_img from '../assets/fs_img.jpg';
 import learnMore from '../assets/learnMore.png'
 import rem from '../assets/rem.png'
 
