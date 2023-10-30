@@ -53,13 +53,7 @@ Follow the instructions below to get started with the project on your local mach
 
 Feel free to use this project as a template for your own landing page or as a starting point for your React development. Customize it to suit your needs and add your content.
 
-To build the project for production, you can run:
 
-```bash
-npm run build
-```
-
-This will generate an optimized production build in the `dist/` directory.
 
 ## Contributing
 
